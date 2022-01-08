@@ -1,1 +1,2 @@
 This is test1 for Git practice
+This is line added from remotely
